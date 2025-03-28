@@ -20,7 +20,7 @@
 
     <!-- Footer -->
     <footer class="bg-gray-800 text-white text-center p-3 mt-5">
-        <p>&copy; {{ date('Y') }} Book List</p>
+        <p>&copy; {{ date('Y') }} Book App</p>
     </footer>
 
 </body>
