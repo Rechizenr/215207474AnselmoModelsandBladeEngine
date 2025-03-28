@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('books.app')
 
 @section('content')
 <div class="bg-white p-5 shadow-md rounded-lg">
